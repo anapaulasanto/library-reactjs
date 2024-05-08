@@ -1,6 +1,9 @@
 <h1 align="center">
   💻<br>Livraria Culture
 </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+ </div>
 
 <h4 align="center"><a href="https://anapaulasanto.github.io/library-reactjs/">Clique para visitar o projeto</a></h4>
 
